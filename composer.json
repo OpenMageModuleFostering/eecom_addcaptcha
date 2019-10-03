@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Eecom_Addcaptcha",
+    "name": "openmage-module-fostering\/eecom_addcaptcha",
     "type": "magento-module",
-    "license": "OSLv3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Allow admin to add CAPTCHA on contact us page. ",
     "authors": [
