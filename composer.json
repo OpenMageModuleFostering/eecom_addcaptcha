@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Eecom_Addcaptcha",
+    "name": "OpenMageModuleFostering\/Eecom_Addcaptcha",
     "type": "magento-module",
     "license": "OSLv3.0",
     "homepage": "",
     "description": "Allow admin to add CAPTCHA on contact us page. ",
     "authors": [
-    {
-        "name": "Envision Ecommerce",
-        "email": "magento@envisionecommerce.com"
-    }
-],
+        {
+            "name": "Envision Ecommerce",
+            "email": "magento@envisionecommerce.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
